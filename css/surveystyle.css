@@ -1,0 +1,124 @@
+.title{
+  font-family:"Rock Salt", cursive;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+body,html{
+  font-family:"abel", sans-serif;
+  text-align:center;
+  min-width:260px;
+  color:black;
+  background-color:white;
+}
+
+body{
+  font-size:1.3em;
+  background:lightblue;
+    center repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  background-size: cover;
+}
+
+.text-box{
+  background-color: rgba(255,217,15,0.28);
+  border-radius: 30px;
+  margin: 2em auto;
+  padding: 25px;
+  width: 85%;
+}
+
+h1 {
+  margin: 2;
+  color: black;
+  text-align: center;
+  letter-spacing: 5px;
+  word-spacing: 0.1em;
+  line-height: 0.2em;
+  font-weight: bold;
+}
+
+p {
+  display: block;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 1.2em;
+}
+
+.container {
+  background-color: rgba(174, 179, 211, 0.719);
+  border-radius: 20px;
+  margin: auto;
+  width: 87.23%;
+  padding: 1em;
+}
+
+#survey-form {
+  margin: 0 auto;
+  width: 70%;
+  padding: 5px;
+}
+
+.labels {
+  display: inline-block;
+  text-align: left;
+  width: 40%;
+  vertical-align: top;
+  margin-top: 18px;
+  padding: 5px;
+}
+
+.input-tab {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  margin-left: 10px;
+}
+
+.input-field {
+    height: 20px;
+    width: 280px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+
+input {
+  margin: 7px;
+}
+
+#dropdown {
+    height: 35px;
+    width: 140px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 15px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+
+.btn {
+  width: 100%;
+  text-align: center;
+  margin: 25px;
+}
+
+button {
+    background-color: #59ace0;
+    border-radius: 4px;
+    color: white;
+    font-size: 1em;
+    height: 40px;
+    width: 96px;
+    margin: 10px;
+    border: 0px solid;
+}
+
+button:hover {
+  background-color: rgba(79, 118, 223, 0.28);
+}
